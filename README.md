@@ -1,6 +1,6 @@
 #Landing Page 
 
-Landing Page em htm e css 
+Landing Page em html e css 
 
 Criação para praticar e exercitar um pouco.
 
